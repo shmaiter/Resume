@@ -1,2 +1,2 @@
 # CV
-Resume of part of my knowledge and experience on the software field
+Resume that describes part of my knowledge and experience until now on computer science field.
